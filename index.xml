@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>七郎的小院</title>
+    <link>http://lapisy.github.io/</link>
+    <description>Recent content on 七郎的小院</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>七郎</copyright><atom:link href="http://lapisy.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
